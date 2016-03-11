@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 
+#import <GoogleAPIClient/GTLPlus.h>
+
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
